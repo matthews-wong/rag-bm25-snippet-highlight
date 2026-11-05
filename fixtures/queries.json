@@ -1,0 +1,10 @@
+[
+  {"query": "how long are snapshots kept", "doc": "backup", "answer": "kept for 14 days"},
+  {"query": "when does an unacknowledged page escalate to the manager", "doc": "oncall", "answer": "after 20 minutes"},
+  {"query": "how many days before expiry are certificates renewed", "doc": "tls", "answer": "30 days before expiry"},
+  {"query": "what share of traffic does the canary receive", "doc": "deploy", "answer": "5 percent of traffic"},
+  {"query": "maximum connections per service pool", "doc": "db", "answer": "50 connections per service"},
+  {"query": "how often does production access expire", "doc": "access", "answer": "expires after 90 days"},
+  {"query": "how often are restores rehearsed", "doc": "backup", "answer": "every quarter"},
+  {"query": "slow query logging threshold", "doc": "db", "answer": "500 milliseconds"}
+]
